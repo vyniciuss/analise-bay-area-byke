@@ -1,4 +1,4 @@
-# Análise de dados da Bay Area Bike Share
+﻿# Análise de dados da Bay Area Bike Share
 
 O projeto desta análise faz parte do curso Fundamento de Data Science 1 da Udacity
 
@@ -10,3 +10,7 @@ Neste projeto, você se colocará no lugar de um analista para realizar uma aná
 Ao final deste projeto, você será capaz de identificar as principais etapas do processo de análise de dados. Ele é projetado para ajudá-lo a tomar uma decisão informada sobre este tipo de trabalho.
 
 Além de praticar os conhecimentos, você também entenderá o processo de envio do projeto e o tipo de feedback que você pode esperar de seu revisor.
+
+
+O arquivo que contém a análise do projeto é o:
+Analise_Bay_Area_Bike_Share-NDFDSI.ipynb
